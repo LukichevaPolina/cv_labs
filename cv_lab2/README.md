@@ -1,5 +1,5 @@
 # Simple convolution and im2col convolution
-Implementation of simple conv and im2col conv for 3-dimentional tensors. Repository has Tensor class implementation for comforatble work with data.  
+Implementation of simple conv and im2col conv for 3-dimentional tensors. Repository has Tensor class implementation for comforatble work with data.
 
 ## How to build
 ```
@@ -13,3 +13,5 @@ Implementation of simple conv and im2col conv for 3-dimentional tensors. Reposit
 ```
 ./main
 ```
+## Note
+Convolutions code located in ```/src/conv.cpp```
